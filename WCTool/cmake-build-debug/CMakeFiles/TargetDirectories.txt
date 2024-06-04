@@ -1,0 +1,3 @@
+/Users/aarontrelstad/CodingChallengesCPP/WCTool/cmake-build-debug/CMakeFiles/WCTool.dir
+/Users/aarontrelstad/CodingChallengesCPP/WCTool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aarontrelstad/CodingChallengesCPP/WCTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
